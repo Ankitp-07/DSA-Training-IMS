@@ -6,6 +6,7 @@ public class arrsyntax {
         boolean[] a =new boolean[5];  //fill with false
         String[] arr1= new String[10]; // filled with string
 
+        int[][] two_D_arr=new int[4][5];
 
     }
 }
